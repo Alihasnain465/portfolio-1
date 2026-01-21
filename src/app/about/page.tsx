@@ -42,7 +42,7 @@ export default function About() {
 
           <div className="flex flex-col gap-3">
             <a
-              href="https://wa.me/923001234567"
+              href="https://wa.me/923193504224"
               target="_blank"
               className="text-green-600 font-semibold hover:underline"
             >
